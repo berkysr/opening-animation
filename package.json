@@ -1,0 +1,28 @@
+{
+  "name": "opening-animation",
+  "version": "1.0.0",
+  "description": "Page opening animation made with GSAP.",
+  "main": "\u001b[C\u001bassetassets/javascript/main.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkysr/opening-animation.git"
+  },
+  "keywords": [
+    "javascript",
+    "practice",
+    "GSAP",
+    "opening animation"
+  ],
+  "author": "Berk YASAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkysr/opening-animation.git/issues"
+  },
+  "homepage": "https://github.com/berkysr/opening-animation.git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
